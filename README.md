@@ -40,13 +40,21 @@ Contains every query task from the assignment, grouped and commented into sectio
 
 Section	Task
 A. Distinct Values	Distinct salaries
+
 B. Alias (AS)	age → Employee_Age, salary → Employee_Salary
+
 C. WHERE Clause & Operators	Salary > ₹50000 & hired before 2016-01-01; find & fill missing designation
+
 D. ORDER BY	Sorted by department_id ASC, salary DESC
+
 E. LIMIT	First 5 employees hired in 2018
+
 F. Aggregate Functions	Sum of Finance salaries; minimum age
+
 G. GROUP BY	Max salary per location; avg salary per %Analyst% designation
+
 H. HAVING	Departments with < 3 employees; locations with avg female age < 30
+
 I. Joins	INNER JOIN, LEFT JOIN, RIGHT JOIN
 
 🛠️ Tech Stack
