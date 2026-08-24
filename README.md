@@ -39,6 +39,7 @@ dml_queries.sql
 Contains every query task from the assignment, grouped and commented into sections:
 
 Section	Task
+
 A. Distinct Values	Distinct salaries
 
 B. Alias (AS)	age → Employee_Age, salary → Employee_Salary
