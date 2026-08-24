@@ -1,10 +1,10 @@
 # MySQL_Clauses-and-Joins
 
-🗃️ Employee Database — MySQL DML Project
+🗃️ Employee Database — MySQL Clauses and Joins Project
 
 A Data Analyst assignment focused on designing and managing an Employee Database using MySQL.
 
-DML: populating the tables and querying them with DISTINCT, aliases, WHERE, ORDER BY, LIMIT, aggregate functions, GROUP BY, HAVING, and all three join types.
+Populating the tables and querying them with DISTINCT, aliases, WHERE, ORDER BY, LIMIT, aggregate functions, GROUP BY, HAVING, and all three join types.
 
 📌 Problem Statement
 
