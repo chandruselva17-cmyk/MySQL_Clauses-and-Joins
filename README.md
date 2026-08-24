@@ -59,7 +59,9 @@ H. HAVING	Departments with < 3 employees; locations with avg female age < 30
 I. Joins	INNER JOIN, LEFT JOIN, RIGHT JOIN
 
 🛠️ Tech Stack
+
 Database: MySQL 8.0+
+
 Tooling: MySQL Workbench / MySQL CLI
 
 👤 Author
